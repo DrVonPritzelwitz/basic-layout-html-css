@@ -28,11 +28,18 @@ Create a basic three column layout
 	- height: 50px
 	- background color: red
 - The centre should be divided in three columns
-	- Left column width: 15%
+	- Left column width: 20%
 	- Left column background color: green
-	- Right column width: 15%
+	- Right column width: 20%
 	- Right column background color: green
 	- Centre column background color: white
+	- Centre column width: 60%
+#
+
+![layout](layout_img.png)
+
+### Resource:
+[W3Schools - CssFlexBox](https://www.w3schools.com/css/css3_flexbox.asp)
 
 
 
